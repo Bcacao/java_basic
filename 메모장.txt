@@ -1,0 +1,7 @@
+alt + 1 탐색기 접었다 피기
+
+ctrl shift f10 실행
+
+ctrl alt v 변수 생성
+
+ctrl y 줄삭제
